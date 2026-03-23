@@ -73,7 +73,7 @@ LIVE_STREAM_DEFS = [
         "stream_base": "https://streaming.wrek.org/main",
         "logoUrl": "https://www.selbie.com/wrek/radiodial.jpg",
         "logoBlurHash": "LKO2?V%2Tw=w]~RBVZRi};RPxuwH",
-        "albumCoverUrl" : "https://www.selbie.com/wrek/wrek_logo_white_on_black450.png"
+        "albumCoverUrl" : "https://www.selbie.com/wrek/911fm_450.png"
     },
     {
         "id": "hd2-subchannel",
