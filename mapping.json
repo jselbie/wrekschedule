@@ -1,0 +1,276 @@
+{
+  "100-wreks": {
+    "description": "Hyperpop, breakcore, and digicore",
+    "logoUrl": "https://www.selbie.com/wrek/100-wreks.jpg",
+    "logoBlurHash": "ed5-0GapkXe@kpeofPfkf6f7lkfAepf$aLg2fke;fkfkeof6fkfkf*"
+  },
+  "54-46": {
+    "description": "Reggae, ska, dub, and rocksteady",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/FFFS_logo.png",
+    "logoBlurHash": "eUM6;iiyN1moV;a2s+iM=:y98^t6bvtOTLt7W.SLShS4%gS4s8b[NG"
+  },
+  "all-the-fixins": {
+    "description": "Country music",
+    "logoUrl": "https://www.selbie.com/wrek/all-the-fixins.jpg",
+    "logoBlurHash": "eEKlgJ-.9Fiwv#~A?E-PV@azL#Se%gkCxu=Xw]xakVoMPVs9R5xsIo"
+  },
+  "alternative-radio": {
+    "description": "Award-winning public affairs",
+    "logoBlurHash": null
+  },
+  "atmospherics": {
+    "description": "Ambient and drone soundscapes",
+    "logoUrl": "https://www.selbie.com/wrek/atmospherics.jpg",
+    "logoBlurHash": "ehN]|ia~3sj=Xza#jsj?bIa#BrjsxSazv#f%a|a#jsjsO@fPwGfjV}"
+  },
+  "classics": {
+    "description": "Classical music, all eras",
+    "logoUrl": "https://www.selbie.com/wrek/classics.jpg",
+    "logoBlurHash": "eJMG-SIW_4%MR-K8Rj%gt7t7.7xtM{RQxu-qtRIUM{M{x^njjZoeIT"
+  },
+  "connections": {
+    "description": "What's the interrelationships between songs?",
+    "logoUrl": "https://www.selbie.com/wrek/connections.jpg",
+    "logoBlurHash": "eOCP@eofM{WUM{xuj[ayofWB00j[t7j[xuD%fQofWBt7?bayRjWBM{"
+  },
+  "continental-drift": {
+    "description": "International music from the globe",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/image-3.png",
+    "logoBlurHash": "eJCuPNV|IYkBRWy5azoeovRn4Zk8x=V{obIKk9RkRVtLw8k9RUovou"
+  },
+  "crush": {
+    "description": "Shoegaze, dream pop, and noise pop",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/crushLogo.png",
+    "logoBlurHash": "eJSo|1ncVCTvZ3Z2MVVGV|kXl:khXTkSTdzokEbIW-bIqGfiY5ozfl"
+  },
+  "destroy-all-music": {
+    "description": "Noise, jazz, and avant-garde",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/DAM.png",
+    "logoBlurHash": "e3L4+]JXrA#Os-yFt8Z}s+W?m%VX%ht-S6w?WBtnXAi]%KW=_4xtI9"
+  },
+  "diwrektors-cut": {
+    "description": "Film soundtracks and discussion",
+    "logoUrl": "https://ghost.wrek.org/content/images/2025/02/IMG_0178.jpeg",
+    "logoBlurHash": "eZNmyU01WB-:tRRjWVayjZR*_3s:M|NGs:-;%2xuozo1RQofj[RQM{"
+  },
+  "electric-boogaloo": {
+    "description": "Funk music selections",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/04/EB.png",
+    "logoBlurHash": "eJJG=moe_%oLM2a#azocoKR,t4fQICjZ2wt5j@R+WCs.jDfQNMayO="
+  },
+  "electronic": {
+    "description": "Beat-driven electronic music",
+    "logoUrl": "https://www.selbie.com/wrek/electronic.jpg",
+    "logoBlurHash": "e96uS5ofofofaye=juj[juj[4mWBaxWnoMt7ayayaxWB?Jj[fQkBWB"
+  },
+  "electronic-soundsystem": {
+    "description": "Live DJs, house, techno, breaks",
+    "logoUrl": "https://www.selbie.com/wrek/electronic-soundsystem.jpg",
+    "logoBlurHash": "eLEo+4$}s#NI9E9ZyDkDM{xYe5M{ssxtt8--?bjZM{E3OwWBxuofMw"
+  },
+  "erebus": {
+    "description": "Post-punk, new wave, and synthpop",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/image-5.png",
+    "logoBlurHash": "eMENk_tR0LWXD*W=jYWBWBt6ENbHxuofoft7ofj[WBWB4:WB%Loexa"
+  },
+  "friday-night-fish-fry": {
+    "description": "Blues, blues rock, and local acts",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/04/FNFF.png",
+    "logoBlurHash": "ekN9zRj[#ij@skW?a}a}S5ae#OR.kXR.W=NHWXWXays:}is+NfoJR."
+  },
+  "girl-rock": {
+    "description": "Women and non-binary in indie",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/03/GIRL_logo_new.jpeg",
+    "logoBlurHash": "ePODUqE,X,Vr?bS#oGMxM#xu%Mx]n%V@Sh%Mt8xutjV@?]jERQxaV["
+  },
+  "goldsoundz": {
+    "description": "Indie rock and hipster pop",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/image-7.png",
+    "logoBlurHash": "eFR^XMRkTHnicV*Iaepbfkkpkrj[jGaepvv.afcDj[k;VFa#VYa#Z$"
+  },
+  "hour-of-slack": {
+    "description": "Church of the SubGenius",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/HOS.png",
+    "logoBlurHash": "eAFZd8M_Oa%2S6M_t6D%WCIU0hWCocWst7E2R-%Mj?%L5ao#xZjYV@"
+  },
+  "http-frictionwrek-blogspot-com": {
+    "description": "Eclectic Wednesday night mix",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/FR.png",
+    "logoBlurHash": "e7Gd.2oyg1oygLoyf7fQf7f7l*fQe:fjeVpGfkfjfkfjZQfQf6fQg2"
+  },
+  "invention-for-radio": {
+    "description": "Ambient, glitch, sound collage",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/INFR-3.png",
+    "logoBlurHash": "e7GIir=|4TNG%g4T^+IUx]t74n?bRjRjjZofWB.8R*Rj%MjZ%MR*Io"
+  },
+  "island-flyover": {
+    "description": "Bossa nova, lofi, and chill pop",
+    "logoUrl": "https://www.selbie.com/wrek/island-flyover.jpg",
+    "logoBlurHash": "exNnRJo$s*oyWF~Uado4ayt2R.jtt6a{RkxCbcIoofkCs:slR*afV["
+  },
+  "just-jazz": {
+    "description": "Jazz in all its forms",
+    "logoUrl": "https://www.selbie.com/wrek/jjlogo-1.jpg",
+    "logoBlurHash": "e3Lqa~?b~q-;%MD%WB9Fj[of~qD%IUxuIUxu00IU%MIU-;jtt7%Mt7"
+  },
+  "kbops": {
+    "description": "K-Pop and Korean pop music",
+    "logoUrl": "https://www.selbie.com/wrek/kbops.jpg",
+    "logoBlurHash": "e-Hdy~%1WXofWBxVn$WBaejZ0LR*kCWDkCI@bIs.j]WYxvNHjFoJjZ"
+  },
+  "live-at-wrek": {
+    "description": "Live local bands in the studio",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/LAW.png",
+    "logoBlurHash": "eYQ0N]S#_3nO.8RPW;ofjFkC_NniIUg3Mxo}nioLkWaK?bkCM{jtRj"
+  },
+  "lost-in-the-stacks": {
+    "description": "GT Library's rock and talk show",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/LITS_logo.png",
+    "logoBlurHash": "eLP=.c0L$c?Fn2]x%1IpNHt8#4xtkDR*Wrvxt7t7R*M|ros:offQbI"
+  },
+  "meltdown": {
+    "description": "Artist spotlight and discussion",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/meltdownlogo.png",
+    "logoBlurHash": "eWTQxIofeRnhjEp{f5fkf+f6e7f5f,f+f,nff+f,e.f6i^fRf,fjfQ"
+  },
+  "messy-life": {
+    "description": "Midwest emo and post-hardcore",
+    "logoUrl": "https://www.selbie.com/wrek/messy-life.jpg",
+    "logoBlurHash": "eZM%+b0KIUV@IU.9RiofWVWB~W?IR%Rjt6D*xbjYoft7%LRjxuxuoe"
+  },
+  "miku-nation": {
+    "description": "Vocaloid, J-pop, and J-rock",
+    "logoUrl": "https://www.selbie.com/wrek/Frame-48.jpg",
+    "logoBlurHash": "egQ+gat6j0aNt2udWVRkjZs.,[n+NGSeR.S4oes.fPWCRkW:s:nlsl"
+  },
+  "mise-en-scene": {
+    "description": "Music history scenes and eras",
+    "logoUrl": "https://www.selbie.com/wrek/mise-en-scene.jpg",
+    "logoBlurHash": "e7ATi+-;-=t7-;xu%MWBxuM{-;Rjt6ofWAM{WBWBt7ay~qWBM{j[WB"
+  },
+  "mobius": {
+    "description": "Eclectic Wednesday night sounds",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/MOB.png",
+    "logoBlurHash": "eIKlg+K557=F57-oofsosmNa0}$%RjI;-UxakC9uM{-AEMbH-UNHRk"
+  },
+  "mode-8": {
+    "description": "Video game music and chiptune",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/MODE_logo.png",
+    "logoBlurHash": "eeMtgpWAt6M{j=4:jEayj[j[IoV@WBofWB02WBxtayt6D*ofj[ayof"
+  },
+  "mountain-breeze": {
+    "description": "Folk, bluegrass, and Appalachian",
+    "logoUrl": "https://www.selbie.com/wrek/mountain-breeze.jpg",
+    "logoBlurHash": "ezGcT2Ris,j]ay~qkCofWCfQ=sR*a#ofWVVraxWCj[fPShWBayoLj["
+  },
+  "new-forces": {
+    "description": "Post-hardcore and noise rock",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/NF-1.png",
+    "logoBlurHash": "eRPFZ8R6Fit8%MZ$0;s7$xX9KnxY$xf*oIxs$wbws,Rn.9SislNLNL"
+  },
+  "oontz-oontz": {
+    "description": "Dance, EDM, disco, and house",
+    "logoUrl": "https://www.selbie.com/wrek/oontz-oontz.jpg",
+    "logoBlurHash": "ebFz8-;cImOGI--Es8WAoMjE0vOGxvwcxa9rWsxHWnkDKdS5V[fijb"
+  },
+  "overnight-alternatives": {
+    "description": "Experimental, industrial, noise",
+    "logoUrl": "https://www.selbie.com/wrek/Thumbnail10-pitchedAndSorted--1.jpg",
+    "logoBlurHash": "eGBm?7sWNr$9f5FgfSoKWro01qWnjvScW;s6WnWna_W;R}ayjuazo3"
+  },
+  "pop-up-show": {
+    "description": "Rotating experimental shows",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/POP.png",
+    "logoBlurHash": "efR1Iyn$l:jZQ,slaebHozkCZ3bHWBjZt-ozozWUV?jaVEflt,jZWX"
+  },
+  "psych": {
+    "description": "Psychedelic rock and drone",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/PO-1.png",
+    "logoBlurHash": "eELDuSofEAoL18bFbGS$j[bbQmay5uj@$|o#jZX7axWBRaj[Gaa#rG"
+  },
+  "ramblin-wrek-sports-show": {
+    "description": "Georgia Tech sports talk",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/RWSS_logo-1.png",
+    "logoBlurHash": "eIQ0G;M{a#%K~kM~WCxroeWC~l--oeIqD,--oeRlRkWC%IRlWCs-WE"
+  },
+  "retrograde-riffs": {
+    "description": "80s rock, synthpop, and new wave",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/02/726D50C5-74EC-49DC-A820-E51F96C98D89.jpg",
+    "logoBlurHash": "epCFe~a}RijuWUjZfQj]a|ay53jss;a{ogX7a{aejtj]?0a}WUjuWT"
+  },
+  "rrr": {
+    "description": "Rock, blues, hip-hop, and more",
+    "logoUrl": "https://www.selbie.com/wrek/rrr.jpg",
+    "logoBlurHash": "eOEyY#$kMew|xG~DxHV@s:RjpHS1IoX7kCbuWBt7RjRjn8RjozRjkB"
+  },
+  "sassafras": {
+    "description": "Ambient house and electronic",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/SASS_logo.png",
+    "logoBlurHash": "eKOjsB1nw{S6s8NzI{WZj?a$NNS6-2oIskS7$vskNNS6R:oINNR:xA"
+  },
+  "slacktime": {
+    "description": "Experimental and avant-garde",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/BSTF.png",
+    "logoBlurHash": "eqNd8kj[IAj[%hM{fQj[fQt7_4j[bbfRRPx]fQWBayj?xufQxuj[Rj"
+  },
+  "stonehenge": {
+    "description": "Classic rock and prog rock",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/04/SH.png",
+    "logoBlurHash": "eEPZr*WCt7-;j@~qayxuj[M{_3M{Rjt7t7D%xu%MRjt7%Mt7j[IURj"
+  },
+  "sub-saharan-vibes": {
+    "description": "African and Afro-beat music",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/SSV_logo.png",
+    "logoBlurHash": "eLIXBT==sPt7W@hjjGoKockCK]bcWERkWEvPxYj=WVWCO=M}oNocoH"
+  },
+  "sunday-special": {
+    "description": "Rotating DJ themes each week",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/SS_logo.png",
+    "logoBlurHash": "eFQt7ecFq[ogrCsofkn4nii_q[n4XTe.XSrqXSbwjFbHu%bbkCn$Xn"
+  },
+  "surround-sound": {
+    "description": "Eclectic mix across genres",
+    "logoUrl": "https://ghost.wrek.org/content/images/2025/05/SurroundSoundLogo.png",
+    "logoBlurHash": "e7AAaa%M00M{IU_3?bRjD%of4nof%Mxuxu00IUxuxut7IUM{M{RjWB"
+  },
+  "techniques": {
+    "description": "Hip-hop and turntablism",
+    "logoUrl": "https://ghost.wrek.org/content/images/2023/10/TECH-1.png",
+    "logoBlurHash": "eiPYhVWY+=t6#ix]oJadNyWCz,j]XTf6kXWBxBaeRjkC-OV?Nej]a#"
+  },
+  "tokyo-dreams": {
+    "description": "Japanese city pop and synthwave",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/TKYO_logo.png",
+    "logoBlurHash": "ePFYJ=%IIYS4ofIxs+WCW?n~0fR+xqjIWXxTs,bIoIR,t8a$afaxoL"
+  },
+  "underground-recordings": {
+    "description": "Live tapes from WREK's archives",
+    "logoUrl": "https://www.selbie.com/wrek/underground-recordings.jpg",
+    "logoBlurHash": "eMB{}pozIAs,Ioxuoen$WBax4URj%foLozIUo0off+ozpIbIM|W;V@"
+  },
+  "velvet": {
+    "description": "Neo-soul and alternative R&B",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/VLV_logo.png",
+    "logoBlurHash": "eYCGu-x]IUR+M{ozt8ozWXay00Ri%Loextf6M{Rjt6js?aWBM{jZRj"
+  },
+  "vintage-wrek": {
+    "description": "Albums from WREK's vault",
+    "logoUrl": "https://ghost.wrek.org/content/images/2025/05/VINTAGE--1--1.png",
+    "logoBlurHash": "eXPz#qyVR7^$EPuMOrr?xtWEDlVtSgRkt5~8xsM}WBa#KPt7n$R+ay"
+  },
+  "weekend-winddown": {
+    "description": "Folk, acoustic, Sunday sounds",
+    "logoUrl": "https://www.selbie.com/wrek/weekend-winddown.jpg",
+    "logoBlurHash": "eBJj^$?G~VM|t7?H9aNFxat6%LM|xaW.M|E1-:bHRkof~VRkD*oykB"
+  },
+  "wrek-the-news": {
+    "description": "Weekly news recap and analysis",
+    "logoUrl": "https://www.selbie.com/wrek/wrek-the-news.jpg",
+    "logoBlurHash": "eeR.[9aynLoLVpt6n#a}t7ay#fj[NJoJo#ay%LWCM{WCZxWCtRoLWE"
+  },
+  "wrekage": {
+    "description": "Atlanta's metal radio",
+    "logoUrl": "https://ghost.wrek.org/content/images/2024/01/WRKG_logo.png",
+    "logoBlurHash": "eUFQOfazM|j]IVt7j[RjWCoe0Layt6fQt6M|ofxtoeWCj@ofj[a|xa"
+  }
+}
